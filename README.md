@@ -10,9 +10,9 @@ Outside of [GitHub](https://github.com/mianjawadahmad/), You can **find me. Curr
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MianJawadAhmad1) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/MianJawadAhmad)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mianjawadahmad/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mainjawadahmad1)
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/MianJawadAhmad1)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/mianjawadahmad/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MianJawadAhmad)
+[![Twitter: MianJawadAhmad](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/MianJawadAhmad1)
+[![Linkedin: MianJawadAhmad](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/mianjawadahmad/)
+[![GitHub MianJawadAhmad](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MianJawadAhmad)
 
 <p><a href="https://encoderbytes.com">🌐 Check out my website</a></p>
 <!--
