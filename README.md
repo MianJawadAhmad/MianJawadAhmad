@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi, I'm Mian Jawad Ahmad 👋 I'm a 🚀 computer scientist 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/matyo91/matyo91/raw/master/assets/github.gif)
 
 **Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/MianJawadAhmad) represent my journey :running_man: - This is Mian Jawad Ahmad, I am founder of EncoderBytes and President at Computer Cell. I have over 2 years’ experience as a React & React Native Developer. I am a computer scientist by profession and entrepreneur by passion. I have a team of professional we worked in Android native, React Native, Flutter, AI, DL, ML, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database we use Firebase, Firestore, Mysql, mongodb.   
 
