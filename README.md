@@ -20,6 +20,19 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MianJawadAhmad&show_icons=true) 
 
 
+#### Blogs on [Medium](https://medium.com/@MianJawadAhmad):
+
+<a href='https://medium.com/@MianJawadAhmad/first-contribution-in-uet-peshawar-github-d9b6b6673ca5' target='_blank'>
+  <img width='30%' src='https://miro.medium.com/max/1248/1*lbijCjImyTxbLqr19ZiPdA.png' alt='First Contribution in UET Peshawar Github' />
+</a>
+<a href='https://medium.com/@MianJawadAhmad/how-to-add-github-profile-introduction-readme-823fd2b32b6d' target='_blank'>
+  <img width='30%' src='https://miro.medium.com/max/1400/1*fzGod9laMGpIlgvSZmYrbg.png' alt='How to add GitHub Profile Introduction(README)' />
+</a>
+<a href='https://medium.com/@MianJawadAhmad/what-is-the-right-way-to-become-a-react-native-developer-9143de72234e' target='_blank'>
+  <img width='30%' src='https://miro.medium.com/max/1400/1*Xq9-727iwXNXA2j1cjQkjw.jpeg' alt='What is the Right way to become a React Native Developer' />
+</a>
+
+
 
 Outside of [GitHub](https://github.com/mianjawadahmad/), You can **find me. Currently I'm **free to contribute**
 
