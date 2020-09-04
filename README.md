@@ -21,10 +21,8 @@
 
 
 #### Blogs on [Medium](https://medium.com/@MianJawadAhmad):
-
 <a href='https://medium.com/@MianJawadAhmad/first-contribution-in-uet-peshawar-github-d9b6b6673ca5' target='_blank'>
   <img width='30%' src='https://miro.medium.com/max/1248/1*lbijCjImyTxbLqr19ZiPdA.png' alt='First Contribution in UET Peshawar Github' />
- **First Contribution in UET Peshawar Github**
 </a>
 <a href='https://medium.com/@MianJawadAhmad/how-to-add-github-profile-introduction-readme-823fd2b32b6d' target='_blank'>
   <img width='30%' src='https://miro.medium.com/max/1400/1*fzGod9laMGpIlgvSZmYrbg.png' alt='How to add GitHub Profile Introduction(README)' />
@@ -36,7 +34,6 @@
 
 
 Outside of [GitHub](https://github.com/mianjawadahmad/), You can **find me. Currently I'm **free to contribute**
-
 
 ![](https://komarev.com/ghpvc/?username=mianjawadahmad&color=blue&label=Profile+Views)
 [![Twitter: MianJawadAhmad](https://img.shields.io/twitter/follow/MianJawadAhmad1?style=social)](https://twitter.com/MianJawadAhmad1)
