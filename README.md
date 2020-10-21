@@ -1,5 +1,5 @@
 
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/MianJawadAhmad) represent my journey :running_man: - This is Mian Jawad Ahmad, I am founder and CEO at EncoderBytes and President at Computer Cell. I have over 2 years’ experience as a React & React Native Developer. I am a computer scientist by profession and entrepreneur by passion. I have a team of professional we worked in Android native, React Native, Flutter, AI, DL, ML, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database we use Firebase, Firestore, Mysql, mongodb.   
+**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/MianJawadAhmad) represent my journey :running_man: - This is Mian Jawad Ahmad, I am founder and CEO at EncoderBytes and President at Computer Cell. I have over 2 years’ experience as a React & React Native Developer. I worked in ChatBots, Machine learning and BlockChain. I am a computer scientist and Software Engineer by profession and entrepreneur by passion. I have a team of professional we worked in Android native, React Native, Flutter, AI, DL, ML, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database we use Firebase, Firestore, Mysql, mongodb. Also we work in Amazon Cloud.
 
 
 
@@ -41,6 +41,12 @@
 </a>
 <a href='https://www.fiverr.com/mianjawdahmad/develop-ios-and-android-mobile-app-using-react-native' target='_blank'>
   <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152204824/original/d5d1a06fd7afc5d1a4696ed021acef49d107f014/develop-ios-and-android-mobile-app-using-react-native.png' alt='React Native' />
+</a>
+<a href='https://www.fiverr.com/mianjawdahmad/develop-web-based-reactjs-nodejs-application' target='_blank'>
+  <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152272160/original/42c42a91df317d32449a3f194a93ac0dfc79a428/develop-web-based-reactjs-nodejs-application.png' />
+</a>
+<a href='https://www.fiverr.com/mianjawdahmad/develop-or-update-android-apps-in-java-or-kotlin' target='_blank'>
+  <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152356238/original/78fdc9db704bba7b26841ca538532a08f2766495/develop-or-update-android-apps-in-java-or-kotlin.png' />
 </a>
 
 
