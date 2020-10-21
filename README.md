@@ -49,6 +49,12 @@
   <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152356238/original/78fdc9db704bba7b26841ca538532a08f2766495/develop-or-update-android-apps-in-java-or-kotlin.png' />
 </a>
 
+#### Upwork:
+<a href='https://www.upwork.com/freelancers/~01b269a8e1ee35b09d' target='_blank'>
+  <img width='30%' src='https://www.upwork.com/static/images/upwork-fb.png' alt='upwork profile' />
+</a>
+
+####
 
 Outside of [GitHub](https://github.com/mianjawadahmad/), You can **find me. Currently I'm **free to contribute**
 
