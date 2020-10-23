@@ -32,6 +32,11 @@
 </a>
 
 
+#### Upwork:
+<a href='https://www.upwork.com/freelancers/~01b269a8e1ee35b09d' target='_blank'>
+  <img width='30%' src='https://www.upwork.com/static/images/upwork-fb.png' alt='upwork profile' />
+</a>
+
 #### Fiverr Gigs:
 <a href='https://www.fiverr.com/mianjawdahmad/develop-android-and-ios-mobile-app-using-flutter' target='_blank'>
   <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/157680286/original/b04bd39310a0b6fb310be30ec744cd093f654769/develop-android-and-ios-mobile-app-using-flutter.jpg' alt='Flutter' />
@@ -49,10 +54,7 @@
   <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152356238/original/78fdc9db704bba7b26841ca538532a08f2766495/develop-or-update-android-apps-in-java-or-kotlin.png' />
 </a>
 
-#### Upwork:
-<a href='https://www.upwork.com/freelancers/~01b269a8e1ee35b09d' target='_blank'>
-  <img width='30%' src='https://www.upwork.com/static/images/upwork-fb.png' alt='upwork profile' />
-</a>
+
 
 ####
 
