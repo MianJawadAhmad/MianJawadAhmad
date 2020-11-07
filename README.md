@@ -32,30 +32,6 @@
 </a>
 
 
-#### Upwork:
-<a href='https://www.upwork.com/freelancers/~01b269a8e1ee35b09d' target='_blank'>
-  <img width='30%' src='https://www.upwork.com/static/images/upwork-fb.png' alt='upwork profile' />
-</a>
-
-#### Fiverr Gigs:
-<a href='https://www.fiverr.com/mianjawdahmad/develop-android-and-ios-mobile-app-using-flutter' target='_blank'>
-  <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/157680286/original/b04bd39310a0b6fb310be30ec744cd093f654769/develop-android-and-ios-mobile-app-using-flutter.jpg' alt='Flutter' />
-</a>
-<a href='https://www.fiverr.com/mianjawdahmad/do-machine-learning-python-projects' target='_blank'>
-  <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/172451244/original/aea88c802153336932bca9a01afb4cb92265b5ae/do-machine-learning-python-projects.png' alt='Machine Learning' />
-</a>
-<a href='https://www.fiverr.com/mianjawdahmad/develop-ios-and-android-mobile-app-using-react-native' target='_blank'>
-  <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152204824/original/e6411642a12ae85db993678bf6e349e177e439b3/develop-ios-and-android-mobile-app-using-react-native.png' alt='React Native' />
-</a>
-<a href='https://www.fiverr.com/mianjawdahmad/develop-web-based-reactjs-nodejs-application' target='_blank'>
-  <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152272160/original/42c42a91df317d32449a3f194a93ac0dfc79a428/develop-web-based-reactjs-nodejs-application.png' />
-</a>
-<a href='https://www.fiverr.com/mianjawdahmad/develop-or-update-android-apps-in-java-or-kotlin' target='_blank'>
-  <img width='30%' src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152356238/original/78fdc9db704bba7b26841ca538532a08f2766495/develop-or-update-android-apps-in-java-or-kotlin.png' />
-</a>
-
-
-
 ####
 
 Outside of [GitHub](https://github.com/mianjawadahmad/), You can **find me. Currently I'm **free to contribute**
