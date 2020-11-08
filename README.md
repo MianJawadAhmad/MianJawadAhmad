@@ -18,7 +18,6 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MianJawadAhmad&show_icons=true) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MianJawadAhmad&show_icons=true)
 
 #### Blogs on [Medium](https://medium.com/@MianJawadAhmad):
 <a href='https://medium.com/@MianJawadAhmad/first-contribution-in-uet-peshawar-github-d9b6b6673ca5' target='_blank'>
