@@ -19,6 +19,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MianJawadAhmad&show_icons=true) 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MianJawadAhmad)](https://github.com/MianJawadAhmad/github-readme-stats)
+
 #### Blogs on [Medium](https://medium.com/@MianJawadAhmad):
 <a href='https://medium.com/@MianJawadAhmad/first-contribution-in-uet-peshawar-github-d9b6b6673ca5' target='_blank'>
   <img width='30%' src='https://miro.medium.com/max/1248/1*lbijCjImyTxbLqr19ZiPdA.png' alt='First Contribution in UET Peshawar Github' />
