@@ -3,7 +3,7 @@
   <img width="100%" height='300' src="encoderbytes.gif" alt="EncoderBytes (PRIVATE) LIMITED" />
 </p>
 
- <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub represent my journey :running_man: - This is Mian Jawad Ahmad, I am founder and CEO at EncoderBytes and President at Computer Cell. I have over 5 years’ experience in mobile application development IOS and Full-Stack Web Development. I also worked in ChatBots, Machine learning and BlockChain. I am a Software Engineer by profession and entrepreneur by passion. we worked in Android native, Flutter (IOS & Android), React Native (IOS & Android),  AI, Deep Learning, Machine Learning, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database we use Firebase, Firestore, Mysql, mongodb. Also we work in Amazon Cloud.
+ <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub represent my journey :running_man: - This is Mian Jawad Ahmad, I have over 5 years’ experience in mobile application development IOS and Full-Stack Web Development. I also worked in ChatBots, Machine learning and BlockChain. I am a Software Engineer by profession and entrepreneur by passion. we worked in Android native, Flutter (IOS & Android), React Native (IOS & Android),  AI, Deep Learning, Machine Learning, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database we use Firebase, Firestore, Mysql, mongodb. Also we work in Amazon Cloud.
 </p>
 
 **Languages and Tools:**  
