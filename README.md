@@ -17,7 +17,7 @@ My Work Experience:
 ✅ Full-Stack Web Development ( MERN Stack, MEAN Stack, PERN Stack, ReactJS, NextJS, VueJS, NodeJS)<br/>
 ✅Blockchain ( Ethereum, Solana, Flow ) <br/>
 ✅ Data Science ( Collecting real time Data from data source and API, Data Cleaning and Preprocessing, Data Visualization to get Insights of Data)<br/>
-✅ Machine Learning & Deep Learning<br/>
+✅ Machine Learning & Deep Learning
 
 <br/><br/>
 Community Services:<br/>
@@ -25,12 +25,12 @@ Community Services:<br/>
 ✅ Provided Sessions and training on Computer & Digital skills to madrassah students.<br/>
 ✅ Training Sessions on Business and Entrepreneurship strategies and building up profiles for earning. <br/>
 ✅ Provided sessions and Practical training on freelancing platforms in Mobile Apps development, Website development, Data Science, and machine learning.<br/>
-<br/><br/>
+<br/>
 Educational Services:<br/>
 ✅ Working as Youth Activist of STEM Education in providing AI, Coding and App Development sessions for kids (Age 13-18).<br/>
 ✅ Training Sessions on Business and Entrepreneurship strategies and building up profiles for earning. <br/>
 ✅ Training Sessions as a Counsellor and Motivational speaker to assist Career Development strategies.<br/>
-<br/><br/>
+<br/>
 Email:<br/>
 jawad@encoderbytes.com<br/>
 </p>
