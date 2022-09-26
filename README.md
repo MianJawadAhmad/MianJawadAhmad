@@ -4,7 +4,7 @@
 </p>
 
  <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub represent my journey :running_man: - I’m the Founder and CEO of Encoderbytes Pvt Ltd and I enjoy building high quality software products and services across the globe. Moreover, I’m a computer scientist, software engineer by profession and entrepreneur by passion. 
-
+<br/>
 My Work Experience:
 ✅ Product Development, Market Research, Building UI/UX strategies with the creative and development teams.
 ✅Solution Architecting for the products   • Application Development and Managing development team.
