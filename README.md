@@ -3,7 +3,35 @@
   <img width="100%" height='300' src="encoderbytes.gif" alt="EncoderBytes (PRIVATE) LIMITED" />
 </p>
 
- <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub represent my journey :running_man: - This is Mian Jawad Ahmad, I have over 5 years’ experience in mobile application development IOS and Full-Stack Web Development. I also worked in ChatBots, Machine learning and BlockChain. I am a Software Engineer by profession and entrepreneur by passion. we worked in Android native, Flutter (IOS & Android), React Native (IOS & Android),  AI, Deep Learning, Machine Learning, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database we use Firebase, Firestore, Mysql, mongodb. Also we work in Amazon Cloud.
+ <p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub represent my journey :running_man: - I’m the Founder and CEO of Encoderbytes Pvt Ltd and I enjoy building high quality software products and services across the globe. Moreover, I’m a computer scientist, software engineer by profession and entrepreneur by passion. 
+
+My Work Experience:
+✅ Product Development, Market Research, Building UI/UX strategies with the creative and development teams.
+✅Solution Architecting for the products   • Application Development and Managing development team.
+✅Revenue Optimization and Cost Benefit Analysis for new and ongoing projects.
+✅ Product Desging
+✅ Project Management / Scrum Master
+✅ Mentoring and coaching
+✅ Mobile Application Development ( Native IOS, Native Android, Flutter and React Native )
+✅ Full-Stack Web Development ( MERN Stack, MEAN Stack, PERN Stack, ReactJS, NextJS, VueJS, NodeJS)
+✅Blockchain ( Ethereum, Solana, Flow ) 
+✅ Data Science ( Collecting real time Data from data source and API, Data Cleaning and Preprocessing, Data Visualization to get Insights of Data)
+✅ Machine Learning & Deep Learning
+
+
+Community Services:
+✅ Worked for Transgender and Women in uplifting their rights in the society.
+✅ Provided Sessions and training on Computer & Digital skills to madrassah students.
+✅ Training Sessions on Business and Entrepreneurship strategies and building up profiles for earning. 
+✅ Provided sessions and Practical training on freelancing platforms in Mobile Apps development, Website development, Data Science, and machine learning.
+
+Educational Services:
+✅ Working as Youth Activist of STEM Education in providing AI, Coding and App Development sessions for kids (Age 13-18).
+✅ Training Sessions on Business and Entrepreneurship strategies and building up profiles for earning. 
+✅ Training Sessions as a Counsellor and Motivational speaker to assist Career Development strategies.
+
+Email:
+jawad@encoderbytes.com
 </p>
 
 **Languages and Tools:**  
